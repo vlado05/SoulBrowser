@@ -4,9 +4,9 @@
     <string name="app_name">Soul</string>
     <string name="notice">С натискането на бутона Старт вие се съгласявате с браузъра Soul\n%1$s и %2$s.</string>
     <string name="notice_tos">Условия за ползване</string>
-    <string name="notice_privacy">Privacy Policy</string>
-    <string name="start">Start</string>
-    <string name="info">Information</string>
+    <string name="notice_privacy">Политика за поверителност</string>
+    <string name="start">Старт</string>
+    <string name="info">Информация</string>
     <string name="app_ver">App version</string>
     <string name="version">Version</string>
     <string name="license">Open source licenses</string>
