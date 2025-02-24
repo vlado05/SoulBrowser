@@ -7,10 +7,10 @@
     <string name="notice_privacy">Политика за поверителност</string>
     <string name="start">Старт</string>
     <string name="info">Информация</string>
-    <string name="app_ver">App version</string>
-    <string name="version">Version</string>
-    <string name="license">Open source licenses</string>
-    <string name="show_license">License</string>
+    <string name="app_ver">Версия на приложението</string>
+    <string name="version">Версия</string>
+    <string name="license">Лицензи с отворен код</string>
+    <string name="show_license">Лиценз</string>
     <string name="feedback">Send feedback</string>
     <string name="item">&#160;item</string>
     <string name="items">&#160;items</string>
