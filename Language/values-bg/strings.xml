@@ -56,12 +56,12 @@
     <string name="translate">Превод</string>
     <string name="translator">Преводач</string>
     <string name="trans_detect">Разпознаване на език</string>
-    <string name="trans_auto_info">If a translatable language is detected, it will be translated.</string>
-    <string name="trans_always_info">All pages are always translated.</string>
-    <string name="trans_icon">Button display</string>
+    <string name="trans_auto_info">Ако бъде открит език, който може да бъде преведен, той ще бъде преведен.</string>
+    <string name="trans_always_info">Всички страници ще са винаги преведени.</string>
+    <string name="trans_icon">Показване на бутон</string>
     <string name="trans_auto">Automatic translation</string>
-    <string name="trans_always">Always translate</string>
-    <string name="trans_icon_always">Always show translate button</string>
+    <string name="trans_always">Винаги превеждай</string>
+    <string name="trans_icon_always">Винаги показвай бутона за превод</string>
     <string name="trans_block_site">Block automatic translations on current site</string>
     <string name="trans_block_page">Block automatic translations on current page</string>
     <string name="trans_except">Automatic translation blacklist</string>
