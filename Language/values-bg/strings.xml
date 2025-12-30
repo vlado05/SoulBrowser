@@ -43,10 +43,10 @@
     <string name="stop">Спри</string>
     <string name="reserved">Запазено</string>
     <string name="registered">Добавено в опашката</string>
-    <string name="down_expire_1">If the number of downloads exceeds the limit, it will be queued.</string>
-    <string name="down_complete">Download complete</string>
-    <string name="down_fail">Download failed</string>
-    <string name="live_fail">Live video may not be downloaded.</string>
+    <string name="down_expire_1">Ако броят на изтеглянията надвиши ограничението, те ще бъдат поставени в опашка.</string>
+    <string name="down_complete">Изтегляне завършено</string>
+    <string name="down_fail">Изтеглянето се провали</string>
+    <string name="live_fail">Видео на живо не може да бъде изтеглено.</string>
     <string name="save_success">Save success</string>
     <string name="save_fail">Save failed</string>
     <string name="capture">Screenshot</string>
