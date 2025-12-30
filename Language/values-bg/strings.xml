@@ -59,7 +59,7 @@
     <string name="trans_auto_info">Ако бъде открит език, който може да бъде преведен, той ще бъде преведен.</string>
     <string name="trans_always_info">Всички страници ще са винаги преведени.</string>
     <string name="trans_icon">Показване на бутон</string>
-    <string name="trans_auto">Automatic translation</string>
+    <string name="trans_auto">Автоматичен превод</string>
     <string name="trans_always">Винаги превеждай</string>
     <string name="trans_icon_always">Винаги показвай бутона за превод</string>
     <string name="trans_block_site">Block automatic translations on current site</string>
