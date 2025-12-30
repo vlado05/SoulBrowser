@@ -2,16 +2,16 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">By pressing the Start button, you agree to the Soul Browser\n%1$s and %2$s.</string>
-    <string name="notice_tos">Terms of Service</string>
-    <string name="notice_privacy">Privacy Policy</string>
-    <string name="start">Start</string>
-    <string name="info">Information</string>
-    <string name="app_ver">App version</string>
-    <string name="version">Version</string>
-    <string name="license">Open source licenses</string>
-    <string name="show_license">License</string>
-    <string name="feedback">Send feedback</string>
+    <string name="notice">Натискайки бутона „Старт“, Вие се съгласявате с условията на Soul Browser.\n%1$s и %2$s.</string>
+    <string name="notice_tos">Условия за ползване</string>
+    <string name="notice_privacy">Политика за поверителност</string>
+    <string name="start">Старт</string>
+    <string name="info">Информация</string>
+    <string name="app_ver">Версия на приложението</string>
+    <string name="version">Версия</string>
+    <string name="license">Лицензи за отворен код</string>
+    <string name="show_license">Лиценз</string>
+    <string name="feedback">Изпрати обратна връзка</string>
     <string name="item">&#160;item</string>
     <string name="items">&#160;items</string>
     <string name="down_location">Download location</string>
