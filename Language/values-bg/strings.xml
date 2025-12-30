@@ -41,8 +41,8 @@
     <string name="pause">Пауза</string>
     <string name="resume">Възобновяване</string>
     <string name="stop">Спри</string>
-    <string name="reserved">Reserved</string>
-    <string name="registered">Registered to the queue</string>
+    <string name="reserved">Запазено</string>
+    <string name="registered">Добавено в опашката</string>
     <string name="down_expire_1">If the number of downloads exceeds the limit, it will be queued.</string>
     <string name="down_complete">Download complete</string>
     <string name="down_fail">Download failed</string>
