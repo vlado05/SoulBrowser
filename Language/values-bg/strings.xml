@@ -31,8 +31,8 @@
     <string name="down_again">Изтегли отново</string>
     <string name="down_page">Запази страница</string>
     <string name="down_list">Изтегляния</string>
-    <string name="down_start">Download started</string>
-    <string name="down_back_time">Background state timeout</string>
+    <string name="down_start">Изтеглянето започна</string>
+    <string name="down_back_time">Изтичане на времето на фоновото състояние</string>
     <string name="time_limit">Time limit</string>
     <string name="down_back_info_1">If the time limit is exceeded while the app is in the background, downloads will be paused to save battery.</string>
     <string name="down_back_info_2">The timer is released when the app goes to the foreground.</string>
